@@ -1,0 +1,44 @@
+body {
+    font-size: 16px;
+    color: #000000;
+    background-color: #faf8f9;
+    font-family: 'Oxygen', sans-serif;
+}
+
+#navbar-brand {
+    background-color: #8e8e8c;
+    border-radius: 0;
+    border: 0;
+    padding-left: 3vw;
+}
+
+#chicken {
+    margin: 4vw;
+    background-color: #a7a4a5;
+    font-size: 16px;
+    padding: 1px 10px 10px 40px;
+}
+
+#beef {
+    margin: 4vw;
+    background-color: #a7a4a5;
+    font-size: 16px;
+    padding: 1px 10px 10px 40px;
+}
+
+#sushi {
+    margin: 4vw;
+    background-color: #a7a4a5;
+    font-size: 16px;
+    padding: 1px 10px 10px 40px;
+}
+
+.item-title {
+    display: flex;
+    justify-content: center; 
+    width: 100%;
+    text-align: center;
+    margin-top: 5vh;
+    margin-bottom: 3vh;
+    font-size: 200%;
+}
